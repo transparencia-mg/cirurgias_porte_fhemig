@@ -1,0 +1,46 @@
+{
+  "name": "cirurgias_fhemig",
+  "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
+  "profile": "data-package",
+  "resources": [
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "cirurgia_2017",
+      "path": "data/cirurgia_2017.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string"
+          },
+          {
+            "name": "mes",
+            "type": "string"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "porte",
+            "type": "string"
+          },
+          {
+            "name": "quantidade",
+            "type": "integer"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    }
+  ],
+  "title": "Cirurgias_fhemig"
+}
