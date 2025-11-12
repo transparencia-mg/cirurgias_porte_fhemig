@@ -106,7 +106,7 @@ resources:
     scheme: file
     title: Cirurgias realizadas por porte - 2018
 
-    - description: >
+  - description: >
       Dados de Cirurgias realizadas em bloco cirúrgico por porte.
       Porte I – Com tempo de duração de até duas horas.
       Porte II – Com tempo de duração de duas a quatro horas.
@@ -140,7 +140,7 @@ resources:
     scheme: file
     title: Cirurgias realizadas por porte - 2019
 
-    - description: >
+  - description: >
       Dados de Cirurgias realizadas em bloco cirúrgico por porte.
       Porte I – Com tempo de duração de até duas horas.
       Porte II – Com tempo de duração de duas a quatro horas.
@@ -174,7 +174,7 @@ resources:
     scheme: file
     title: Cirurgias realizadas por porte - 2020
 
-    - description: >
+  - description: >
       Dados de Cirurgias realizadas em bloco cirúrgico por porte.
       Porte I – Com tempo de duração de até duas horas.
       Porte II – Com tempo de duração de duas a quatro horas.
@@ -242,7 +242,7 @@ resources:
     scheme: file
     title: Cirurgias realizadas por porte - 2022
 
-    - description: >
+  - description: >
       Dados de Cirurgias realizadas em bloco cirúrgico por porte.
       Porte I – Com tempo de duração de até duas horas.
       Porte II – Com tempo de duração de duas a quatro horas.
@@ -276,7 +276,7 @@ resources:
     scheme: file
     title: Cirurgias realizadas por porte - 2023
 
-    - description: >
+  - description: >
       Dados de Cirurgias realizadas em bloco cirúrgico por porte.
       Porte I – Com tempo de duração de até duas horas.
       Porte II – Com tempo de duração de duas a quatro horas.
@@ -310,7 +310,7 @@ resources:
     scheme: file
     title: Cirurgias realizadas por porte - 2024
 
-    - description: >
+  - description: >
       Dados de Cirurgias realizadas em bloco cirúrgico por porte.
       Porte I – Com tempo de duração de até duas horas.
       Porte II – Com tempo de duração de duas a quatro horas.
