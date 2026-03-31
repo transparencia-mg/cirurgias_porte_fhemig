@@ -4,7 +4,9 @@ Conjunto de dados referentes as cirurgias realizadas em bloco cirúrgico por por
   - Porte III – Com tempo de duração de quatro até seis horas.
   - Porte IV – Com tempo de duração acima de seis horas.
 
-Dados disponíveis a partir de 2016..
+Dados disponíveis a partir de 2016.
+
+Palavras chave: cirurgias realizadas; porte cirúrgico.
 
 # Como participar
 
