@@ -6,6 +6,8 @@ Conjunto de dados referentes as cirurgias realizadas em bloco cirúrgico por por
 
 Dados disponíveis a partir de 2016.
 
+Obs.: Informamos que os dados referentes às cirurgias de algumas das unidades da Fundação Hospitalar do Estado de Minas Gerais – FHEMIG podem sofrer alterações devido a implementaçao de novo sistema de gestão hospitalar. A parametrização e utilização de novo sistema pode ter impacto nos critérios de classificação de cirurgias e, portanto, no número total destes procedimentos.
+
 Palavras chave: cirurgias realizadas; porte cirúrgico.
 
 # Como participar
